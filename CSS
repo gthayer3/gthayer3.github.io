@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f3faff;
+    background-color: #FFA500; /* Orange background color */
     color: #2a2a2a;
     line-height: 1.6;
 }
